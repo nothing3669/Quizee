@@ -1,5 +1,5 @@
 {
-  "Geography":
+  "geography":
   [
     {
       "id": 1001,
@@ -32,7 +32,7 @@
       "answer": "5"
     }
   ],
-  "Sports":
+  "sports":
   [
     {
       "id": 2001,
