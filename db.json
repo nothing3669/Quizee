@@ -13,5 +13,20 @@
       "option": ["Kolkata", "Mumbai", "Delhi", "Chennai"],
       "answer": "Delhi"
     }
+  ],
+  "Sports":
+  [
+    {
+      "id": 2001,
+      "quiz": "Who had won the IPL 2020?",
+      "option": ["CSK", "RCB", "MI", "DC"],
+      "answer": "MI"
+    },
+    {
+      "id": 2002,
+      "quiz": "Who had won the World Cup 2018?",
+      "option": ["Brazil", "France", "Belgium", "England"],
+      "answer": "France"
+    }
   ]
 }
