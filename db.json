@@ -1,6 +1,8 @@
 {
   "Science":
-  [
+  {
+    [
+    "Physics":
     {
       "id": 1001,
       "quiz": "What is the capital of Nepal?",
@@ -13,7 +15,8 @@
       "option": ["Kolkata", "Mumbai", "Delhi", "Chennai"],
       "answer": "Delhi"
     }
-  ],
+  ]
+  },
   "Sports":
   [
     {
