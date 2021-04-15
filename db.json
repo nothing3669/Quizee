@@ -1,5 +1,5 @@
 {
-  "Science":
+  "Geography":
   [
     {
       "id": 1001,
@@ -12,6 +12,24 @@
       "quiz": "What is the capital of India?",
       "option": ["Kolkata", "Mumbai", "Delhi", "Chennai"],
       "answer": "Delhi"
+    },
+    {
+      "id": 1003,
+      "quiz": "Which is the largest country in the world?",
+      "option": ["Russia", "India", "China", "Canada"],
+      "answer": "Russia"
+    },
+    {
+      "id": 1004,
+      "quiz": "Where is the Great Wall?",
+      "option": ["Russia", "America", "France", "China"],
+      "answer": "China"
+    },
+    {
+      "id": 1005,
+      "quiz": "How many ocean are there on earth?",
+      "option": ["7", "4", "5", "8"],
+      "answer": "5"
     }
   ],
   "Sports":
@@ -27,6 +45,24 @@
       "quiz": "Who had won the World Cup 2018?",
       "option": ["Brazil", "France", "Belgium", "England"],
       "answer": "France"
+    },
+    {
+      "id": 2003,
+      "quiz": "Who has the highest official goals in Football history?",
+      "option": ["Cristiano Ronaldo", "Pele", "Leonal Messi", "Josef Bican"],
+      "answer": "Delhi"
+    },
+    {
+      "id": 2004,
+      "quiz": "How many countries did participate in World Cup Football 2018?",
+      "option": ["24", "32", "36", "30"],
+      "answer": "32"
+    },
+    {
+      "id": 2005,
+      "quiz": "Which country is going to host World Cup Football 2022?",
+      "option": ["France", "Brazil", "Japan", "Qatar"],
+      "answer": "Qatar"
     }
   ]
 }
