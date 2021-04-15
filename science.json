@@ -1,7 +1,9 @@
 {
   "Science":
   [
-    "quiz": "Hello",
-    "answer": "Hi"
+    {
+      "quiz": "Hello",
+      "answer": "Hi"
+    }
   ]
 }
