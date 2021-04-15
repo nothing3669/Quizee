@@ -1,37 +1,19 @@
 {
   "Science":
-  {
-    "Physics":
-    [
-      {
-        "id": 1001,
-        "quiz": "What is the capital of Nepal?",
-        "option": ["Kathmandu", "Pokhara", "Birgunj", "Biratnagar"],
-        "answer": "Kathmandu"
-      },
-      {
-        "id": 1002,
-        "quiz": "What is the capital of India?",
-        "option": ["Kolkata", "Mumbai", "Delhi", "Chennai"],
-        "answer": "Delhi"
-      }
-    ],
-    "Chemistry":
-    [
-      {
-        "id": 1001,
-        "quiz": "What is the capital of Nepal?",
-        "option": ["Kathmandu", "Pokhara", "Birgunj", "Biratnagar"],
-        "answer": "Kathmandu"
-      },
-      {
-        "id": 1002,
-        "quiz": "What is the capital of India?",
-        "option": ["Kolkata", "Mumbai", "Delhi", "Chennai"],
-        "answer": "Delhi"
-      }
-    ]
-  },
+  [
+    {
+      "id": 1001,
+      "quiz": "What is the capital of Nepal?",
+      "option": ["Kathmandu", "Pokhara", "Birgunj", "Biratnagar"],
+      "answer": "Kathmandu"
+    },
+    {
+      "id": 1002,
+      "quiz": "What is the capital of India?",
+      "option": ["Kolkata", "Mumbai", "Delhi", "Chennai"],
+      "answer": "Delhi"
+    }
+  ],
   "Sports":
   [
     {
